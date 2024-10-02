@@ -1,0 +1,9 @@
+name: RNA
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - star
+  - samtools
+  - hisat2
